@@ -1,0 +1,17 @@
+{
+    "admin": {
+        "password": "Delosi2026",
+        "nombre": "Edgar",
+        "rol": "Administrador"
+    },
+    "supervisor": {
+        "password": "ups2026",
+        "nombre": "Supervisor",
+        "rol": "Visualizador"
+    },
+    "operador": {
+        "password": "123456",
+        "nombre": "Operador",
+        "rol": "Visualizador"
+    }
+}
